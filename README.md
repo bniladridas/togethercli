@@ -16,6 +16,13 @@ Effortlessly interact with the Together API using the `nvidia/Llama-3.1-Nemotron
    TOGETHER_API_KEY=your_api_key_here
    ```
 2. Replace `your_api_key_here` with your Together API key.
+3. Ensure a `.env` file is present in the following project folders:
+   - `typescript-cli`
+   - `go-cli`
+   - `javascript-cli`
+   - `java-cli`
+   - `scala-cli`
+   - `ruby-cli`
 
 ## Usage
 
