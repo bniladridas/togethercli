@@ -1,0 +1,13 @@
+# Ignore compiled binaries
+together_cli
+*.o
+*.mod
+
+# Ignore environment files
+.env
+
+# Ignore editor files
+.vscode/
+*.swp
+*.swo
+.DS_Store
